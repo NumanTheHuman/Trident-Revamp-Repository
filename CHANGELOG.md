@@ -1,3 +1,7 @@
+## v1.2
+- New models and graphic designs have been made
+- Bug fixes
+
 ## v1.1
 - Added new versions
 
