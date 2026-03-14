@@ -1,3 +1,6 @@
+## v1.2.10
+- Icon change
+
 ## v1.2
 - New models and graphic designs have been made
 - Bug fixes
