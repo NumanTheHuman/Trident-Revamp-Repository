@@ -1,5 +1,6 @@
 ## v1.3
 - Added inventory texture
+- Changed resource pack look
 
 ## v1.2.10
 - Icon change
