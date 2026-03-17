@@ -1,3 +1,6 @@
+## v1.3
+- Added inventory texture
+
 ## v1.2.10
 - Icon change
 
